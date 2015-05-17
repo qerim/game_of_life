@@ -1,0 +1,14 @@
+-------------------------------------------------------
+------------  Bienvenue sur le Jeu de la Vie ----------
+--------------------------------------------------------
+
+Comment jouer:
+
+  1. Toute cellule vivante avec moins de deux voisins vivants meurt (la solitude)
+  2. Toute cellule vivante avec plus de trois voisines vivantes meurt (surpopulation)
+  3. Toute cellule vivante avec deux ou trois voisines vivantes vit
+  4. Toute cellule morte avec exactement trois voisines vivantes vient à la vie
+
+========================================================
+  Appuyez sur ENTER lorsque vous êtes prêt...
+========================================================

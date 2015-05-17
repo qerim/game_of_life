@@ -1,0 +1,14 @@
+-------------------------------------------------------
+------------- Welcome to the Game of Life --------------
+--------------------------------------------------------
+
+How to play:
+
+  1. Any live cell with fewer than two live neighbours dies (loneliness)
+  2. Any live cell with more than three live neighbours dies (overcrowding)
+  3. Any live cell with two or three live neighbours lives
+  4. Any dead cell with exactly three live neighbours comes to life
+
+========================================================
+  Press ENTER when you are ready...
+========================================================
