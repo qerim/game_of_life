@@ -42,7 +42,7 @@ void gotoxy(int x, int y) {
 void static_header(int grid_x_size) {
 	std::cout << std::endl;
 	for (int i = 0; i < (grid_x_size * 1.8) - 6; i++) { std::cout << ":"; }
-	std::cout << " The Game of Life - EE273 ";
+	std::cout << " The Game of Life ";
 	for (int i = 0; i < (grid_x_size * 1.8) - 6; i++) { std::cout << ":"; }
 }
 
